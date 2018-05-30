@@ -26,4 +26,4 @@ Image control with transition animations. Animation starts when ImageUri propert
 * ImageUri
 * Stretch
 
-![alt text](https://github.com/tmk907/ImageTransitionAnimationsUWP/blob/master/images/example1.gif "Example 1")
+![alt text](https://github.com/tmk907/ImageTransitionAnimationsUWP/blob/master/images/example2.gif "Example 1")
